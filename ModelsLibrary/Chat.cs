@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ModelsLibrary
 {
-    public class Class1
+    public class Chat
     {
+        int User1Id { get; set; }
+        int User2Id { get; set; }
+        string MessagesU { get; set; }
     }
 }
