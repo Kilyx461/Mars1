@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Mars2\\Mars1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D32DE0C-09A5-4AFF-B27A-2EC6AF86B9E7}|Server\\Server.csproj|d:\\mars2\\mars1\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D32DE0C-09A5-4AFF-B27A-2EC6AF86B9E7}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|D:\\Mars2\\Mars1\\modelslibrary\\myrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|solutionrelative:modelslibrary\\myrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5945E4AD-3F4E-431C-8FC6-4639B278DE55}|Client\\Client.csproj|D:\\Mars2\\Mars1\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5945E4AD-3F4E-431C-8FC6-4639B278DE55}|Client\\Client.csproj|solutionrelative:client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D32DE0C-09A5-4AFF-B27A-2EC6AF86B9E7}|Server\\Server.csproj|d:\\mars2\\mars1\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D32DE0C-09A5-4AFF-B27A-2EC6AF86B9E7}|Server\\Server.csproj|solutionrelative:server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5945E4AD-3F4E-431C-8FC6-4639B278DE55}|Client\\Client.csproj|D:\\Mars2\\Mars1\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|solutionrelative:modelslibrary\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|D:\\Mars2\\Mars1\\modelslibrary\\myrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|solutionrelative:modelslibrary\\myrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|D:\\Mars2\\Mars1\\modelslibrary\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1865B76-BB14-48B1-BECF-4A7200993114}|ModelsLibrary\\ModelsLibrary.csproj|solutionrelative:modelslibrary\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Mars2\\Mars1\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
@@ -68,13 +68,14 @@
               "RelativeDocumentMoniker": "Client\\Form1.cs",
               "ToolTip": "D:\\Mars2\\Mars1\\Client\\Form1.cs",
               "RelativeToolTip": "Client\\Form1.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwDgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwEIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T16:16:14.345Z"
+              "WhenOpened": "2025-03-24T16:16:14.345Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Mars2\\Mars1\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
@@ -86,14 +87,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Mars2\\Mars1\\Client\\Form1.cs",
               "RelativeDocumentMoniker": "Client\\Form1.cs",
               "ToolTip": "D:\\Mars2\\Mars1\\Client\\Form1.cs [Design]",
               "RelativeToolTip": "Client\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T16:06:17.755Z"
+              "WhenOpened": "2025-03-24T16:06:17.755Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -109,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Chat.cs",
               "DocumentMoniker": "D:\\Mars2\\Mars1\\ModelsLibrary\\Chat.cs",
               "RelativeDocumentMoniker": "ModelsLibrary\\Chat.cs",
@@ -121,20 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Mars2\\Mars1\\Server\\Form1.cs",
               "RelativeDocumentMoniker": "Server\\Form1.cs",
               "ToolTip": "D:\\Mars2\\Mars1\\Server\\Form1.cs",
               "RelativeToolTip": "Server\\Form1.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAiwFoAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDYAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T18:12:54.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Mars2\\Mars1\\Server\\Form1.cs",
               "RelativeDocumentMoniker": "Server\\Form1.cs",
@@ -145,15 +147,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "MyRequest.cs",
               "DocumentMoniker": "D:\\Mars2\\Mars1\\ModelsLibrary\\MyRequest.cs",
               "RelativeDocumentMoniker": "ModelsLibrary\\MyRequest.cs",
               "ToolTip": "D:\\Mars2\\Mars1\\ModelsLibrary\\MyRequest.cs",
               "RelativeToolTip": "ModelsLibrary\\MyRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T16:24:19.779Z"
+              "WhenOpened": "2025-03-23T16:24:19.779Z",
+              "EditorCaption": ""
             }
           ]
         }
