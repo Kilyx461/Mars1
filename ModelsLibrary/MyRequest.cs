@@ -10,8 +10,8 @@ namespace ModelsLibrary
     public class MyRequest
     {
         
-        public string type { get; set; }
-        public string message { get; set; }
+        public string type { get; set; } // login-response
+        public string message { get; set; }// ok \ no
         public string login { get; set; }
         public string password { get; set; }
 
